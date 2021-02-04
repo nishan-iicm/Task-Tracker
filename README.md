@@ -32,8 +32,8 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 ### `npm run eject`
 
 
-![alt text]https://github.com/nishan-iicm/Task-Tracker/blob/master/full_image.png
-![alt text]https://github.com/nishan-iicm/Task-Tracker/blob/master/task_tracker.png
+![alt text](https://github.com/nishan-iicm/Task-Tracker/blob/master/full_image.png)
+![alt text](https://github.com/nishan-iicm/Task-Tracker/blob/master/task_tracker.png)
 
 **Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
